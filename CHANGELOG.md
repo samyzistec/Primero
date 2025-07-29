@@ -1,6 +1,5 @@
 # CHANGELOD ADDED
 
-##ADDED  8
+##ADDED 1
 
-## Descirpcion
-# Trabajo conlaborativo con github
+##ADDED 2
